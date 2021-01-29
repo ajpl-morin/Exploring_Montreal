@@ -1,0 +1,102 @@
+PostalCode,Neighborhood,Latitude,Longitude
+H1A,Pointe-aux-Trembles,45.67706,-73.50252
+H2A,Saint-Michel Est,45.56157,-73.59912
+H3A,Downtown Montréal Nord,45.50435,-73.57668
+H4A,Notre-Dame-de-Grâce Nord-Ouest,45.47271,-73.61494
+H5A,Place Bonaventure,45.49970,-73.56570
+H9A,Dollard-des-Ormeaux Nord-Ouest,45.49550,-73.83123
+H1B,Montréal Est,45.63514,-73.51878
+H2B,Ahuntsic Nord,45.57388,-73.64937
+H3B,Downtown Montréal Est,45.50048,-73.56874
+H4B,Notre-Dame-de-Grâce Sud-Ouest,45.46161,-73.63335
+H5B,Place Desjardins,45.50771,-73.56414
+H9B,Dollard-des-Ormeaux Est,45.48879,-73.80081
+H1C,Rivière-des-Prairies Nord-Est,45.66440,-73.53848
+H2C,Ahuntsic Central,45.56092,-73.65782
+H3C,Griffintown,45.49467,-73.55846
+H4C,Saint-Henri,45.46800,-73.59756
+H9C,L'Île-Bizard Nord-Est,45.50669,-73.87790
+H1E,Rivière-des-Prairies Sud-Ouest,45.63767,-73.58408
+H2E,Villeray Nord-Est,45.55141,-73.61152
+H3E,L'Île-Des-Soeurs,45.46045,-73.54810
+H4E,Ville Émard,45.45495,-73.59372
+H9E,L'Île-Bizard Sud-Ouest,45.48802,-73.90799
+H1G,Montréal-Nord Nord,45.61421,-73.62085
+H2G,Petite-Patrie Nord-Est,45.54342,-73.59240
+H3G,Downtown Montréal Sud-Est,45.49949,-73.58085
+H4G,Verdun Nord,45.46437,-73.57027
+H9G,Dollard-des-Ormeaux Sud-Ouest,45.47598,-73.83667
+H1H,Montréal-Nord Sud,45.58970,-73.63874
+H2H,Plateau Mont-Royal Nord,45.53759,-73.57308
+H3H,Downtown Montréal Sud-Ouest,45.50311,-73.59445
+H4H,Verdun Sud,45.44540,-73.58238
+H9H,Sainte-Geneviève / Pierrefonds,45.46687,-73.86036
+H1J,Anjou Ouest,45.61636,-73.57249
+H2J,Plateau Mont-Royal Nord Central,45.52987,-73.58230
+H3J,Petite-Bourgogne,45.48631,-73.57205
+H4J,Cartierville Central,45.53123,-73.70830
+H9J,Kirkland,45.44962,-73.87649
+H1K,Anjou Est,45.60784,-73.54453
+H2K,Centre-Sud Nord,45.53159,-73.55412
+H3K,Pointe-Saint-Charles,45.48115,-73.55825
+H4K,Cartierville Sud-Ouest,45.52026,-73.73404
+H9K,Senneville,45.45670,-73.90723
+H1L,Mercier Nord,45.60146,-73.51993
+H2L,Centre-Sud Sud,45.52104,-73.56271
+H3L,Ahuntsic Sud-Ouest,45.54739,-73.67145
+H4L,Saint-Laurent Inner Nord-Est,45.52044,-73.68425
+H1M,Mercier Ouest,45.58914,-73.55417
+H2M,Ahuntsic Est,45.55270,-73.64005
+H3M,Cartierville Nord-Est,45.53815,-73.69440
+H4M,Saint-Laurent Est,45.50105,-73.68519
+H1N,Mercier Sud-Est,45.57688,-73.52962
+H2N,Ahuntsic Sud-Est,45.54077,-73.65015
+H3N,Parc-Extension,45.52975,-73.63300
+H4N,Saint-Laurent Outer Nord-Est,45.53022,-73.66450
+H8N,LaSalle Nord-Ouest,45.43900,-73.62171
+H1P,Saint-Léonard Nord,45.59862,-73.59412
+H2P,Villeray Ouest,45.54205,-73.63533
+H3P,Mount Royal Nord,45.52202,-73.64024
+H4P,Mount Royal Sud,45.49609,-73.66156
+H8P,LaSalle Sud-Est,45.42541,-73.60627
+H1R,Saint-Léonard Ouest,45.58592,-73.60691
+H2R,Villeray Sud-Est,45.54073,-73.62153
+H3R,Mount Royal Central,45.51063,-73.64826
+H4R,Saint-Laurent Central,45.50733,-73.71497
+H8R,Ville Saint-Pierre,45.42790,-73.64464
+H9R,Pointe-Claire,45.45947,-73.80943
+H1S,Saint-Léonard Sud-Est,45.58207,-73.58167
+H2S,Petite-Patrie Sud-Ouest,45.53486,-73.60508
+H3S,Côte-des-Neiges Nord,45.50618,-73.62971
+H4S,Saint-Laurent Sud-Ouest,45.48547,-73.74525
+H8S,Lachine Est,45.44366,-73.67776
+H9S,Dorval / L'Île-Dorval,45.44443,-73.77395
+H1T,Rosemont Nord,45.57329,-73.57006
+H2T,Plateau Mont-Royal Ouest,45.52469,-73.59452
+H3T,Côte-des-Neiges Nord-Est,45.50056,-73.62071
+H4T,Saint-Laurent Sud-Est,45.48270,-73.69529
+H8T,Lachine Ouest,45.45376,-73.70897
+H1V,Maisonneuve,45.55707,-73.53939
+H2V,Outremont,45.51780,-73.60864
+H3V,Côte-des-Neiges Est,45.49671,-73.61056
+H4V,Côte Saint-Luc Est,45.46716,-73.64828
+H1W,Hochelaga,45.54503,-73.54704
+H2W,Plateau Mont-Royal Sud Central,45.51692,-73.58038
+H3W,Côte-des-Neiges Sud-Ouest,45.48998,-73.63278
+H4W,Côte Saint-Luc Ouest,45.47050,-73.66791
+H9W,Beaconsfield,45.43160,-73.86619
+H1X,Rosemont Central,45.55784,-73.56494
+H2X,Plateau Mont-Royal Sud-Est,45.51213,-73.56748
+H3X,Hampstead / Côte Saint-Luc,45.48166,-73.64144
+H4X,Montréal Ouest,45.45407,-73.65438
+H9X,Sainte-Anne-De-Bellevue,45.42794,-73.93479
+H1Y,Rosemont Sud,45.54852,-73.57740
+H2Y,Vieux-Montréal,45.50555,-73.55456
+H3Y,Westmount Nord,45.48726,-73.60375
+H4Y,Dorval Central (YUL),45.45765,-73.75236
+H8Y,Pierrefonds-Roxboro,45.50706,-73.79988
+H1Z,Saint-Michel Ouest,45.57028,-73.62113
+H2Z,Downtown Montréal Nord-Est,45.50536,-73.56175
+H3Z,Westmount Sud,45.48628,-73.59182
+H4Z,Tour de la Bourse,45.50171,-73.56216
+H8Z,Pierrefonds,45.50813,-73.84060
